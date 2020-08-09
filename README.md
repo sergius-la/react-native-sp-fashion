@@ -1,6 +1,6 @@
 ### Study project of React Native
 
-Instructor:
+Instructor - William Candillon
 - [YouTube](https://www.youtube.com/channel/UC806fwFWpiLQV5y-qifzHnA)
 - [GitHut](https://github.com/wcandillon)
 
